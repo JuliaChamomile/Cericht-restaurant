@@ -1,2 +1,0 @@
-# Cericht-restaurant
-restaurant
